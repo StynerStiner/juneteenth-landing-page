@@ -174,7 +174,7 @@ We welcome contributions that help celebrate and honor Juneteenth! Please follow
 
 ```javascript
 // Developed with ❤️ to honor Juneteenth and African American heritage
-// Professional Web Development by stynerdev225
+// Professional Web Development by StynerDev
 // Date: May 24, 2025
 // Framework: Next.js + React + Tailwind CSS + Radix UI
 
