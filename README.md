@@ -46,7 +46,7 @@ This repository contains a beautifully crafted Juneteenth celebration landing pa
 1. Clone the repository
 
 ```bash
-git clone https://github.com/stynerdev225/juneteenth-landing-page.git
+git clone https://github.com/StynerStiner/juneteenth-landing-page.git
 cd juneteenth-landing-page
 ```
 
